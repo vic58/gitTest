@@ -1,0 +1,54 @@
+[33mcommit 67ceafa4c82bac465b8fa5f8daca17607ff482a4[m[33m ([m[1;36mHEAD -> [m[1;32mdev2[m[33m)[m
+Author: fangjiongyi <836380339@qq.com>
+Date:   Wed Jun 13 22:26:16 2018 +0800
+
+    分支2改的
+
+[33mcommit d9c3a0946036d9db9f423d8aba75357e6b520f6c[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m, [m[1;32mdev1[m[33m)[m
+Merge: 03745b2 cb300ff
+Author: fangjiongyi <836380339@qq.com>
+Date:   Fri Jun 8 01:28:38 2018 +0800
+
+    abv
+
+[33mcommit cb300ff00cbab42453decbd64d8a0833ae6fd056[m[33m ([m[1;31morigin/a[m[33m)[m
+Author: fangjiongyi <836380339@qq.com>
+Date:   Fri Jun 8 01:14:58 2018 +0800
+
+    'dddd'
+
+[33mcommit 03745b21f8231dbb7e10116ed8fbe9ef3f3e6247[m
+Author: fangjiongyi <836380339@qq.com>
+Date:   Fri Jun 8 01:13:53 2018 +0800
+
+    'aaaaaa'
+
+[33mcommit db2bbf7068ead48365158a74a17732eedcf67c1d[m
+Author: fangjiongyi <836380339@qq.com>
+Date:   Fri Jun 8 01:12:53 2018 +0800
+
+    i'm branch
+
+[33mcommit 625802f255b0dc0a38b0144a811b59a32061a72c[m
+Author: fangjiongyi <836380339@qq.com>
+Date:   Fri Jun 8 01:10:35 2018 +0800
+
+    it its a branch add function
+
+[33mcommit 872b411b63b429bcde474417571c5de0c702d973[m
+Author: vic58 <836380339@qq.com>
+Date:   Fri Jun 8 01:05:46 2018 +0800
+
+    Update AAA.txt
+
+[33mcommit f67f00c3a5b55ba855a528d408a76ef09a75a80d[m
+Author: fangjiongyi <836380339@qq.com>
+Date:   Fri Jun 8 00:26:44 2018 +0800
+
+    add aaa.txt
+
+[33mcommit 73cf61033cd4e31066ec4562e027dff01c2dc71c[m
+Author: vic58 <836380339@qq.com>
+Date:   Thu Jun 7 23:26:51 2018 +0800
+
+    Initial commit
